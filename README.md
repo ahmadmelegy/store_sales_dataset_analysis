@@ -8,27 +8,27 @@ The analysis transforms raw sales data into interactive visualizations and actio
 
 # Dataset
 The analysis utilizes a detailed Excel dataset containing:
--Order details
--Customer profiles
--Product information
--Financial performance metrics
--Sales statistics
+- Order details
+- Customer profiles
+- Product information
+- Financial performance metrics
+- Sales statistics
 
 # Project Workflow:
-*Data Cleaning: Power Query: Applied filtering, transformed data types, and standardized formats
-*Data Modeling
-*DAX Implementation: Developed custom measures and calculated columns using Data Analysis Expressions (DAX) to extract valuable analytical insights, including:
-	- Sales performance metrics
-	- Customer segmentation analysis
-	- Profitability calculations
-	- Time-based comparisons
-*Dashboard Development: Built interactive dashboards featuring:
-	- Executive summary of KPIs
-	- Sales performance by region
-	- Product category analysis
-	- Customer segment performance
-	- Temporal trends and forecasts
-*Key Insights about sales and region and some recommendations about that.
+- Data Cleaning: Power Query: Applied filtering, transformed data types, and standardized formats
+- Data Modeling
+- DAX Implementation: Developed custom measures and calculated columns using Data Analysis Expressions (DAX) to extract valuable analytical insights, including:
+	1- Sales performance metrics
+	2- Customer segmentation analysis
+	3- Profitability calculations
+	4- Time-based comparisons
+- Dashboard Development: Built interactive dashboards featuring:
+	1- Executive summary of KPIs
+	2- Sales performance by region
+	3- Product category analysis
+	4- Customer segment performance
+	5- Temporal trends and forecasts
+- Key Insights about sales and region and some recommendations about that.
 
 
 # Tools & Technologies
